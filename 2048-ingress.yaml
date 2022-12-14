@@ -12,7 +12,7 @@ metadata:
     app: webserver-ingress
 spec:
   rules:
-    - host: dev.surajkumar.website
+    - host: dev.kumarsuraj.tech
       http:
           paths:
             - path: /
